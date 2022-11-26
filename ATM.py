@@ -2,7 +2,7 @@ import time as t
 user_pin=9876
 
 user_balance=100000
-user_name="Mr.A"
+user_name="Mr.ABC"
 print("Welcome to your bank account", user_name, end="\n")
 choice=9
 
